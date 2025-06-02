@@ -1,6 +1,4 @@
 # Breast_Cancer_Analysis
-# Breast-_Cancer
-# Data Analysis Project
 
 ## Overview
 This notebook demonstrates various steps in data processing, analysis, or modeling using Python and popular data science libraries.
